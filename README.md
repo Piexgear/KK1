@@ -18,7 +18,20 @@ Sedan börjar jag med att testa runt och kollar på vad datan är lite lätt sen
 Jag använder mig av pandas för att läsa in csv filen och sedan matplot för att plota ut datan. 
 Anser att detta är ett simpelt sätt att göra det på och ville inte komplicera det för mycket.
 
-Jag gör även en data tvätt med hjälp av dropna
+Jag gör även en data tvätt med hjälp av dropna för att droppa dem rader som har NaN-värden
 
 Dem flästa grafer jag har är stapel grafer och det är för jag upplever att det är lättast att visa. 
 Önska jag kunde visa mer data på andra sätt. 
+
+
+# Slutsatts 
+En tydlig slutsats från den data jag fick fram var vilken bana som hade flest farliga asteroider.
+När man tittar på hur dessa banor ser ut ser man tydligt varför det är så.
+
+Det man också tydligt kan se är sambandet mellan magnitud och asteroidernas diameter.
+Ju större asteroid, desto lägre ljusstyrka.
+
+
+
+struktur 
+så simpelt som möjligt förklara analytiskt. 
