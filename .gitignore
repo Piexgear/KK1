@@ -1,1 +1,5 @@
 .venv
+*.zip
+Steam/data/archive.zip
+Steam/data/archive/games.csv
+Steam/data/archive/games.json
